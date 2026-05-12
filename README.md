@@ -8,7 +8,7 @@
 - 动作游戏拆解
 - DPM/APM分析
 - 战斗循环设计
-[下载PDF](Combat_System_Analysis.pdf)
+[下载PDF](微信图片_20260507231936_239_9.jpg)
 ---
 
 ## Projects
